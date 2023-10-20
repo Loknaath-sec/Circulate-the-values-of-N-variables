@@ -1,4 +1,6 @@
 # Circulate-the-values-of-N-variables
+## NAME: P.LOKNAATH
+## REFERENCE NUMBER: 23004546
 ## Aim:
 To write a python program to circulate the n variables using function concept
 ## Equipment’s required:
@@ -15,6 +17,7 @@ Using the slicing concept rotate the list
 ### Step 5: 
 ### Step 6: 
 ## Program:
+![image](https://github.com/Loknaath-sec/Circulate-the-values-of-N-variables/assets/145742558/5ed8406c-128a-4100-b34d-2436ef23ed4a)
 
 ## Output:
 
