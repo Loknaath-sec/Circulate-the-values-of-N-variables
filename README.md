@@ -1,6 +1,5 @@
 # Circulate-the-values-of-N-variables
-## NAME: P.LOKNAATH
-## REFERENCE NUMBER: 23004546
+
 ## Aim:
 To write a python program to circulate the n variables using function concept
 ## Equipment’s required:
@@ -29,6 +28,8 @@ def circulate():
     print(f"After circulating the values are: {out}")
 ```
 ## Output:
+![Exp 1b Output](https://github.com/Loknaath-sec/Circulate-the-values-of-N-variables/assets/145742558/793b88ee-d3c6-46c3-a2ef-bc072bf2955e)
+
 ## Result:
 
 
