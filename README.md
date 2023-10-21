@@ -9,7 +9,7 @@ Anaconda - Python 3.7
 ### Step 1: 
 Create a user defined function
 ### Step 2: 
-Get the number of values from user inside the list
+Get the variables from user to inside the list
 ### Step 3: 
 Get the value from the user for the number of rotation
 ### Step 4: 
