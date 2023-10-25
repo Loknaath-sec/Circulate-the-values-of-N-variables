@@ -31,7 +31,7 @@ def circulate():
     print(f"After circulating the values are: {out}")
 ```
 ## Output:
-![Exp 1b Output](https://github.com/Loknaath-sec/Circulate-the-values-of-N-variables/assets/145742558/793b88ee-d3c6-46c3-a2ef-bc072bf2955e)
+![Exp 1b Output](https://github.com/Loknaath-sec/Circulate-the-values-of-N-variables/assets/145742558/3ff27f01-8a8e-4256-8c8b-4c04241c75aa)
 
 ## Result:
 Thus the python program to circulate the n variables using function concept is successfully executed.
